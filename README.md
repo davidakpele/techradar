@@ -24,6 +24,4 @@ Where r = radius, and t = theta; the degrees in radians. with 0/360 degrees bein
 
 See http://en.wikipedia.org/wiki/Polar_coordinates for more details.
 
-## Similar Projects
 
-[andyw8/techradar](https://github.com/andyw8/techradar) (the Rails app behind [techradar.io](http://techradar.io).
